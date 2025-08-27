@@ -1,1 +1,1 @@
-# Company_Data_Analysis_SQL_Project-
+# Company-SQL-Analysis
